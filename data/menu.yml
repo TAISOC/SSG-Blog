@@ -1,0 +1,14 @@
+- item: Home
+  url: "../home.html"
+- item: About
+  url: "../about.html"
+- item: Team
+  url: ../team.html"
+- item: Services
+  url: "../services.html"
+- item: Pricing
+  url: ../pricing.html"
+- item: Blog
+  url: ""
+- item: Contact
+  url: "../contact.html"

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on TAI SOC Blog</title>
+    <link>https://tai-soc.co.ke/blog/tags/</link>
+    <description>Recent content in Tags on TAI SOC Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2021, TAI SOC Security Analysts; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tai-soc.co.ke/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>business risk</title>
+      <link>https://tai-soc.co.ke/blog/tags/business-risk/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tai-soc.co.ke/blog/tags/business-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>malware</title>
+      <link>https://tai-soc.co.ke/blog/tags/malware/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tai-soc.co.ke/blog/tags/malware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TAI SOC</title>
+      <link>https://tai-soc.co.ke/blog/tags/tai-soc/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tai-soc.co.ke/blog/tags/tai-soc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

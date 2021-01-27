@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>business risk on TAI SOC Blog</title>
+    <link>https://tai-soc.co.ke/blog/tags/business-risk/</link>
+    <description>Recent content in business risk on TAI SOC Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2021, TAI SOC Security Analysts; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tai-soc.co.ke/blog/tags/business-risk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Malware Analysis</title>
+      <link>https://tai-soc.co.ke/blog/post/malware-analysis/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tai-soc.co.ke/blog/post/malware-analysis/</guid>
+      <description>Tai SoC Cybersecurity Spotlight: Malware Analysis It has been reported that actors working for the Russian government compromised the software supply chain of Solarwinds, an IT enterprise management company. Their goal was to distribute malicious code that would give the actors access to government and corporate networks to steal information.
+Malware is at the root of many security breaches. Malware analysis is imperative to help organizations understand the extent of a malware-based attack, as seen in the FireEye example in the preceding paragraph.</description>
+    </item>
+    
+  </channel>
+</rss>
