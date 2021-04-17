@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benchmarking Program on TAI SOC Blog</title>
+    <link>https://tai-soc.co.ke/blog/tags/benchmarking-program/</link>
+    <description>Recent content in Benchmarking Program on TAI SOC Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2021, TAI SOC Security Analysts; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tai-soc.co.ke/blog/tags/benchmarking-program/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TAI SOC Information Sharing and Benchmarking Program</title>
+      <link>https://tai-soc.co.ke/blog/post/benchmarking/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tai-soc.co.ke/blog/post/benchmarking/</guid>
+      <description>The TAI SOC Information Sharing and Benchmarking Program According to Business Daily, cyberattacks on Kenyan organizations increased by roughly 50% in the months leading to 2021 compared to the previous year. According to data from the Communications Authority of Kenya, the highlighted increase was 56 million cyber threats, up from 37.1 million in 2019.
+The rise can be attributed to a number of factors, including the significant shift to online operations and the current economic climate.</description>
+    </item>
+    
+  </channel>
+</rss>
