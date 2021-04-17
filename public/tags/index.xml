@@ -6,13 +6,31 @@
     <description>Recent content in Tags on TAI SOC Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2021, TAI SOC Security Analysts; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tai-soc.co.ke/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tai-soc.co.ke/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>business risk</title>
+      <title>Benchmarking Program</title>
+      <link>https://tai-soc.co.ke/blog/tags/benchmarking-program/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tai-soc.co.ke/blog/tags/benchmarking-program/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business Risk</title>
       <link>https://tai-soc.co.ke/blog/tags/business-risk/</link>
-      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tai-soc.co.ke/blog/tags/business-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TAI SOC</title>
+      <link>https://tai-soc.co.ke/blog/tags/tai-soc/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tai-soc.co.ke/blog/tags/tai-soc/</guid>
       <description></description>
     </item>
     
@@ -22,15 +40,6 @@
       <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tai-soc.co.ke/blog/tags/malware/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TAI SOC</title>
-      <link>https://tai-soc.co.ke/blog/tags/tai-soc/</link>
-      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://tai-soc.co.ke/blog/tags/tai-soc/</guid>
       <description></description>
     </item>
     
